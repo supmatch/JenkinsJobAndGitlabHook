@@ -1,0 +1,2 @@
+# JenkinsJobAndGitlabHook
+基于flask，创建jenkinsJob，并添加gitlab_hook触发
